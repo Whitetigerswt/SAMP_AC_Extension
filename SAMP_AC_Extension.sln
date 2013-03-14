@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8649-Beta 2
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{FF11CD57-CEE2-46E0-8886-A2086E2C84C8}"
+	ProjectSection(SolutionItems) = postProject
+		SAMP_AC_Extension\gtasa.gif = SAMP_AC_Extension\gtasa.gif
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAMP_AC_Extension", "SAMP_AC_Extension\SAMP_AC_Extension.csproj", "{0E19AD91-03E1-42EA-9E12-719D20DDB5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E19AD91-03E1-42EA-9E12-719D20DDB5D6}.Debug|x86.Build.0 = Debug|x86
+		{0E19AD91-03E1-42EA-9E12-719D20DDB5D6}.Debug|x86.ActiveCfg = Release|x86
+		{0E19AD91-03E1-42EA-9E12-719D20DDB5D6}.Release|x86.Build.0 = Release|x86
+		{0E19AD91-03E1-42EA-9E12-719D20DDB5D6}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
