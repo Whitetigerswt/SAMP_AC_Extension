@@ -1,0 +1,1 @@
+http://www.esl.eu/eu/wire/wire_plugin_documentation/ to setup editor
